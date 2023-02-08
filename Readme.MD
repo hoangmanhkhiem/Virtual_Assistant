@@ -1,4 +1,4 @@
-# Virtual_Assistant_Python by TNT 
+# Virtual_Assistant_Python by Ken
 
 
 Các bạn phải cài thêm các thư viện python này vào project bằng các gõ các lệnh này vào Terminal:
