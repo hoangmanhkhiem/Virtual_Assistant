@@ -39,7 +39,7 @@ def command():
         audio=c.listen(source)
     try:
         query=c.recognize_google(audio,language='en')
-        print('Boss: '+query)
+        print(f'Boss: {query}')
     except sr.UnknownValueError:
         speak("Please repeat or typing the command")
         query=str(input("Your order is: "))
